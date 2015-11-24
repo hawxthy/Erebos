@@ -24,7 +24,7 @@ public class UserTest {
     public void testWhatever() {
         User u = new User();
         u.setName("Erebos was here");
-
+    //g
         Assert.assertEquals("Erebos was here", u.getName());
     }
 
