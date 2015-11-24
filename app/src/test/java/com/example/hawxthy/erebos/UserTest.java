@@ -26,6 +26,7 @@ public class UserTest {
         u.setName("Erebos was here");
         // good
         Assert.assertEquals("Erebos was here", u.getName());
+        Assert.assertEquals(1, 1);
     }
 
 }
