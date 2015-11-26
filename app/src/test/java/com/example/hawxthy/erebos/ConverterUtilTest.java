@@ -4,7 +4,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 
-// Klasse
+// Klasseeeeee
 public class ConverterUtilTest {
 
     @Test
