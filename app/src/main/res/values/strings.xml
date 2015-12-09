@@ -5,4 +5,5 @@
     <string name="celsius">to Celsius</string>
     <string name="fahrenheit">to Fahrenheit</string>
     <string name="calc">Calculate</string>
+    <string name="title_activity_second">SecondActivity</string>
 </resources>
