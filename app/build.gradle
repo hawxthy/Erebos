@@ -78,7 +78,7 @@ def coverageSourceDirs = [
         '../app/src'
 ]
 
-task jacocoTestReport(type: JacocoReport, dependsOn: "androidTest") {
+task jacocoTestReport(type: JacocoReport, dependsOn: "test") {
     group = "Reporting"
 
     description = "Generate Jacoco coverage reports"
