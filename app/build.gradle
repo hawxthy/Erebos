@@ -43,6 +43,11 @@ dependencies {
     compile 'com.android.support:appcompat-v7:23.1.1'
     compile 'com.android.support:design:23.1.1'
 
+    // Espresso
+    androidTestCompile 'com.android.support.test.espresso:espresso-core:2.2.1'
+    // add this for intent mocking support
+
+
     // Roboelectric
     testCompile "org.robolectric:robolectric:3.0"
 
